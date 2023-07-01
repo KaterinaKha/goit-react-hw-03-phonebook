@@ -1,0 +1,18 @@
+.filterContainer {
+  padding-top: 10px;
+}
+.filterTitle {
+  font-size: 15px;
+  font-weight: 500;
+}
+.filterInput {
+  margin-top: 5px;
+  font-size: 15px;
+  padding: 5px;
+  font-style: italic;
+  border-color: #33c4ac;
+}
+
+.filterInput:focus {
+  outline: none;
+}
